@@ -10,6 +10,7 @@ You can download the english text corpus from here: http://mattmahoney.net/dc/te
 Copy text8.txt to "dataset/" and run the "word2vec.ipynb" python notebook.
 Training logs for 100,200 and 300 vector sizes can be found in the project.
 Validation has been done for the word "eight" for these models.
+You can see the models that we have trained at "save/".
 
 # Phase2
 Develop neural machine translation models

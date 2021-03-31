@@ -1,7 +1,7 @@
 # NMT
 
 Implementing neural machine translation models for COMP 598 project  
-The project is divided to two main phasess:  
+The project is divided to two main phases:  
 Phase 1: Developing Word Embedding Models  
 Phase 2: Developing Neural Machine Translation Models  
 
